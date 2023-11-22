@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Gabarito&family=Lato&family=Noto+Serif:ital@1&family=Nunito+Sans:opsz@6..12&family=Playpen+Sans&family=Roboto&family=Signika+Negative&family=Ubuntu&display=swap");
+body {
+  background-image: url(Fondo\ funtime.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Noto Serif", serif;
+}
+li {
+  color: white;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}

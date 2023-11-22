@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Roboto&display=swap');
+body {
+    font-family: 'Gabarito', sans-serif;
+    background-image: url(fondo\ de\ la\ pagina.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+li {
+    color: white;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
